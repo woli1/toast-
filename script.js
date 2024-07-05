@@ -18,7 +18,6 @@ const toast=document.getElementById('toastBox');
         },6000);
 
         console.log('mohamed');
-        //
 
     }
 //git push <remote-name> <local-branch-name>:<remote-branch-name>
