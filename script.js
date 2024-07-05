@@ -16,7 +16,10 @@ const toast=document.getElementById('toastBox');
         setTimeout(()=>{
             toast.remove();
         },6000);
-        console.log('walid');
+
+        console.log('mohamed');
+        //
+
     }
 //git push <remote-name> <local-branch-name>:<remote-branch-name>
 //git push origin main:development
