@@ -18,6 +18,7 @@ const toast=document.getElementById('toastBox');
         },6000);
         console.log('ali');
         /////
+        console.log('aaa');
         
     }
 //git push <remote-name> <local-branch-name>:<remote-branch-name>
