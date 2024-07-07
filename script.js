@@ -17,7 +17,7 @@ const toast=document.getElementById('toastBox');
             toast.remove();
         },6000);
         console.log('ali');
-        //walid ya behi
+        //walid ya behi 2
         console.log('aaa');
         
     }
