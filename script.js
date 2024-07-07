@@ -17,7 +17,7 @@ const toast=document.getElementById('toastBox');
             toast.remove();
         },6000);
         console.log('ali');
-        /////
+        //aaaaaa
         console.log('aaa');
         
     }
